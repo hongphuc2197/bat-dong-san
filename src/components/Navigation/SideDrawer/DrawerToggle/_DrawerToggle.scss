@@ -7,7 +7,7 @@
     >.bar {
         width: 35px;
         height: 5px;
-        background-color: $white;
+        background-color: $gray-dark;
         margin: 6px 0;
         transition: 0.5s;
         border-radius: 5px;
@@ -16,7 +16,6 @@
 
 @media(min-width: $breakpoint-md) {
     .DrawerToggleContainer {
-        margin-top: 30px;
         -webkit-box-ordinal-group: 5;
         -ms-flex-order: 4;
         order: 4;

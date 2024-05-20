@@ -10,9 +10,9 @@ const toolbar = props => (
     <div className="container">
       <div className="row">
         <div className="col-auto">
-          <div className="Logo">
+          <a href="/" className="Logo">
             <Logo />
-          </div>
+          </a>
         </div>
         <div className="col-auto ml-auto">
           <div className="menu-option-wrap">

@@ -6,7 +6,7 @@
     width: 100%;
     z-index: 40;
     margin: auto;
-    background-color: $dark-grey;
+    background-color: $white;
 
     .container {
         width: 100%;
@@ -27,7 +27,7 @@
             -ms-flex: 0 0 auto;
             flex: 0 0 auto;
             width: auto;
-            max-width: none;
+            
 
             &.ml-auto {
                 margin-left: auto;
